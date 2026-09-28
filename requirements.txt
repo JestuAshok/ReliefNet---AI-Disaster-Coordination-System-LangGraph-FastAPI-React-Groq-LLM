@@ -1,0 +1,14 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.36
+pydantic==2.9.2
+pydantic-settings==2.5.2
+networkx==3.4.1
+pandas==2.2.3
+numpy==2.1.3
+scipy==1.14.1
+ortools==9.11.4210
+plotly==5.24.1
+python-dotenv==1.0.1
+httpx==0.27.2
+pytest==8.3.3

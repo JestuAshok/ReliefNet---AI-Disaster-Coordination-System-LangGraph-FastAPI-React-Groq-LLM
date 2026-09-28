@@ -1,0 +1,9 @@
+shelter_id,district_id,name,capacity,current_occupancy,available_capacity,medical_support,food_stock_days,water_stock_days,flood_risk,status,latitude,longitude
+S001,D002,Konaseema Relief Center,42000,35000,7000,1,4,3,0.92,AT_RISK,16.76,81.97
+S002,D001,Kakinada Evac Hub,31000,26000,5000,1,5,4,0.78,OPEN,16.94,82.22
+S003,D003,East Godavari Transit Camp,28000,23000,5000,1,4,3,0.8,OPEN,17.00,82.25
+S004,D004,Krishna Shelter Cluster,26000,22000,4000,0,3,3,0.68,NEAR_FULL,16.52,80.65
+S005,D012,West Godavari Shelter,27000,25000,2000,1,3,3,0.76,NEAR_FULL,16.81,81.54
+S006,D013,Srikakulam Safe Zone,22000,18000,4000,1,3,4,0.62,OPEN,18.29,84.02
+S007,D007,Visakhapatnam Relief Camp,35000,29000,6000,1,5,4,0.55,OPEN,17.69,83.21
+S008,D006,Nellore Temporary Shelter,21000,18000,3000,0,3,3,0.5,OPEN,14.43,79.98

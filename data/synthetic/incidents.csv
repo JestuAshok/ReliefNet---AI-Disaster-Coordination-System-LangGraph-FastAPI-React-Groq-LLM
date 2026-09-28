@@ -1,0 +1,5 @@
+incident_id,district_id,incident_type,severity,affected_population,flood_risk,network_status,road_status,notes
+INC-001,D002,SEVERE_FLOOD,CRITICAL,320000,0.96,OFFLINE,BLOCKED,"Konaseema coastal inundation and disrupted access"
+INC-002,D001,SEVERE_FLOOD,HIGH,285000,0.91,DEGRADED,OPEN,"Kakinada river surge affecting estuarine neighborhoods"
+INC-003,D003,SEVERE_FLOOD,HIGH,210000,0.88,DEGRADED,OPEN,"East Godavari inundation with reduced medical capacity"
+INC-004,D012,SEVERE_FLOOD,HIGH,230000,0.85,DEGRADED,OPEN,"West Godavari flood water at transport corridors"

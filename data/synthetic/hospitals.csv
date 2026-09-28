@@ -1,0 +1,7 @@
+hospital_id,district_id,hospital_name,beds,available_beds,icu_beds,available_icu,doctors,medical_stock,emergency_capacity,status,latitude,longitude
+H001,D002,Konaseema General Hospital,420,180,40,15,120,6400,0.74,AT_RISK,16.77,81.96
+H002,D001,Kakinada District Hospital,360,170,35,14,100,5700,0.72,OPEN,16.94,82.22
+H003,D003,East Godavari Medical Center,460,210,48,16,130,7100,0.78,OPEN,17.00,82.25
+H004,D012,West Godavari Trauma Center,330,140,28,9,90,4800,0.68,DEGRADED,16.89,81.55
+H005,D007,Visakhapatnam Regional Hospital,580,300,60,22,170,9300,0.82,OPEN,17.69,83.21
+H006,D006,Nellore Emergency Hospital,310,150,30,11,85,4700,0.62,OPEN,14.43,79.98

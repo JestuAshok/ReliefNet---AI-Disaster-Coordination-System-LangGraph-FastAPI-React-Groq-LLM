@@ -1,0 +1,16 @@
+district_id,district_name,region,population,area_km2,coastal,elevation_m,baseline_flood_risk,baseline_cyclone_risk
+D001,Kakinada,Coastal,1230000,3000,1,12,0.78,0.72
+D002,Konaseema,Coastal,1750000,2000,1,8,0.96,0.91
+D003,East Godavari,Coastal,1650000,3400,1,10,0.88,0.82
+D004,Krishna,Coastal,1430000,2600,1,14,0.72,0.70
+D005,Bapatla,Coastal,1100000,1900,1,15,0.70,0.74
+D006,Nellore,Coastal,1300000,2200,1,18,0.68,0.71
+D007,Visakhapatnam,Coastal,2300000,11000,1,22,0.61,0.66
+D008,Guntur,Delta,2200000,11000,0,34,0.52,0.48
+D009,Prakasam,Coastal,1700000,17000,1,60,0.55,0.58
+D010,Anantapur,Inland,1600000,19130,0,356,0.28,0.21
+D011,Chittoor,Inland,1900000,15100,0,220,0.31,0.25
+D012,West Godavari,Coastal,1650000,7700,1,13,0.75,0.77
+D013,Srikakulam,Coastal,1200000,5800,1,28,0.76,0.79
+D014,Vizianagaram,Coastal,980000,6500,1,36,0.69,0.72
+D015,YSR Kadapa,Inland,1700000,15300,0,134,0.34,0.26

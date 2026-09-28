@@ -1,0 +1,7 @@
+warehouse_id,district_id,name,capacity_kg,available_stock_kg,latitude,longitude
+W001,D001,Kakinada Relief Warehouse,550000,420000,16.94,82.22
+W002,D003,East Godavari Warehouse,500000,390000,17.00,82.25
+W003,D002,Konaseema Depot,470000,360000,16.76,81.97
+W004,D004,Krishna Supply Hub,420000,280000,16.52,80.65
+W005,D007,Visakhapatnam Logistics Hub,620000,450000,17.69,83.21
+W006,D006,Nellore Stock Point,340000,260000,14.43,79.98

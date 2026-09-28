@@ -1,0 +1,13 @@
+road_id,from_node,to_node,distance_km,travel_time_min,capacity,risk,blocked,flood_depth,road_condition
+R001,Kakinada,Konaseema,60,110,1500,0.74,0,2.4,OPEN
+R002,Konaseema,East Godavari,65,120,1500,0.78,0,2.8,OPEN
+R003,East Godavari,Krishna,90,145,1200,0.64,0,1.8,OPEN
+R004,Krishna,West Godavari,86,138,1100,0.62,0,1.6,OPEN
+R005,Konaseema,Visakhapatnam,175,250,900,0.82,1,4.2,BLOCKED
+R006,Kakinada,Visakhapatnam,135,200,1000,0.68,0,2.0,OPEN
+R007,East Godavari,Visakhapatnam,118,175,1100,0.7,0,2.1,OPEN
+R008,Kakinada,Warehouse W001,18,35,2000,0.25,0,0.8,OPEN
+R009,East Godavari,Warehouse W002,22,40,2000,0.28,0,0.9,OPEN
+R010,Konaseema,Warehouse W003,12,20,2000,0.23,0,0.7,OPEN
+R011,Krishna,Warehouse W004,30,45,1800,0.3,0,1.0,OPEN
+R012,Visakhapatnam,Warehouse W005,25,38,2000,0.22,0,0.8,OPEN

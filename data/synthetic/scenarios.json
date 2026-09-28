@@ -1,0 +1,35 @@
+{
+  "random_seed": 42,
+  "scenarios": [
+    {
+      "id": "SCN-FLOOD-001",
+      "name": "Severe Coastal Andhra Flood",
+      "type": "Flood",
+      "severity": "Severe",
+      "duration_hours": 72,
+      "affected_districts": ["Konaseema", "Kakinada", "East Godavari", "Krishna", "West Godavari"],
+      "rainfall_multiplier": 1.8,
+      "flood_severity": 0.92,
+      "road_failure_pct": 22,
+      "shelter_capacity_reduction": 18,
+      "hospital_capacity_reduction": 15,
+      "network_failure_pct": 28,
+      "vehicle_failure_pct": 10
+    },
+    {
+      "id": "SCN-FLOOD-002",
+      "name": "Extreme Multi-District Flood",
+      "type": "Flood",
+      "severity": "Catastrophic",
+      "duration_hours": 168,
+      "affected_districts": ["Konaseema", "Kakinada", "East Godavari", "Krishna", "Bapatla", "Nellore"],
+      "rainfall_multiplier": 2.2,
+      "flood_severity": 0.97,
+      "road_failure_pct": 35,
+      "shelter_capacity_reduction": 25,
+      "hospital_capacity_reduction": 20,
+      "network_failure_pct": 38,
+      "vehicle_failure_pct": 15
+    }
+  ]
+}
